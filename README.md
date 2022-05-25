@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME%20&fontSize=90)
 
 #### Hi there👋 I'm Minyoung<br>
 I have project experience using **R(My most confident language)✨**, Python.<br>
