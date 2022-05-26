@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 #### Hi there👋 I'm Minyoung<br>
-I have project experience using **R(My most confident language)**, Python.<br>
+I have project experience using **R(My most confident language)**, Python, SAS.<br>
 I am very interested in **data analysis** & **machine learning**.
 
 <br>
