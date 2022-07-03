@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
   
-# 김민영(kim minyoung)
+# 김민영(Kim minyoung)
 <br>
 
 I have project experience using **R(My most confident language)**, Python, SAS.<br>
@@ -27,6 +27,7 @@ I am very interested in **data analysis** & **machine learning**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min02yam&layout=compact)](https://github.com/min02yam/github-readme-stats)
 
+#### ⚡Languages and Tools⚡
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <br>
