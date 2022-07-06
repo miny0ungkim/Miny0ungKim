@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 I have project experience using **R(My most confident language)**, Python, SAS.<br>
-I am very interested in **data analysis** & **machine learning**.
+I am very interested in 📊**data analysis** & 🤖**machine learning**.
 
 <br>
 
