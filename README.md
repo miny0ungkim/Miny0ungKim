@@ -29,7 +29,7 @@ I am very interested in 📊**Data Analysis** & 🤖**Machine Learning**.
 
 #### ⚡Languages and Tools⚡
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=for-the-badge&logo=ApacheHive&logoColor=white"> 
   <br>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">  <img src="https://img.shields.io/badge/SAS-007cc1?style=for-the-badge&logo=SEAT&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 <br>
