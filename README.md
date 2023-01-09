@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
   
 # 김민영(Kim minyoung)
+### *“If we are growing, we are always going to be outside our comfort zone.”*
 <br>
 
 I have project experience using **R(My most confident language)**, Python, SAS.<br>
 I am very interested in 📊**Data Analysis** & 🤖**Machine Learning**.
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min02yam&layout=compact)](https://github.com/min02yam/github-readme-stats)
