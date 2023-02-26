@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   
 # 김민영(Kim minyoung)
-### *“If we are growing, we are always going to be outside our comfort zone.”*
+### *“Who I am can be found in the stories I create.”*
 <br>
 
 I have project experience using **R(My most confident language)**, Python, SAS.<br>
