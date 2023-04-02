@@ -19,13 +19,11 @@ Here are some ideas to get you started:
   
 # 김민영(Kim minyoung)
 ### *“Who I am can be found in the stories I create.”*
-<br>
-
 I possess project experience utilizing **R**, my most proficient language, as well as **Python** and **SAS**. <br>
 My primary areas of interest lie in the field of 📊**Statistical data analysis** and 🤖e**X**plainable **AI**, <br>
 both of which captivate my attention and inspire me to learn and innovate further.
 <br>
-
+<br>
 
 <a href="https://github.com/min02yam/github-readme-stats">
   <img align="left" width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=min02yam&layout=compact&hide_border=true" />
