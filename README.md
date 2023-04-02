@@ -26,7 +26,7 @@ both of which captivate my attention and inspire me to learn and innovate furthe
 <br>
 
 <a href="https://github.com/min02yam/github-readme-stats">
-  <img align="left" width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=min02yam&layout=compact&hide_border=true" />
+  <img align="left" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=min02yam&layout=compact&hide_border=true" />
 </a>
 
 #### ⚡Languages and Tools⚡
