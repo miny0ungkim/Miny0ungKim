@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
   
-# 김민영(Kim minyoung)
+# 김민영(Kim Minyoung)
 ### *“Who I am can be found in the stories I create.”*
 I possess project experience utilizing **R**, my most proficient language, as well as **Python** and **SAS**. <br>
 My primary areas of interest lie in the field of 📊**Statistical data analysis** and 🤖e**X**plainable **AI**, <br>
