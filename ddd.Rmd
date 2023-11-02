@@ -1,0 +1,35 @@
+---
+title: "tmp"
+author: "김민영"
+date: "2023-10-27"
+output: html_document
+---
+
+```{r setup}
+suppressPackageStartupMessages({
+  require(readxl) #데이터 로드
+  require(data.table) #랭글링
+  require(dplyr) #랭글링
+  require(magrittr) #랭글링
+  require(skimr) # EDA
+  require(DataExplorer) #시각화
+  require(esquisse) #시각화
+  library(ggplot2) # 시각화
+  require(caret) # 시각화화
+  require(lubridate) #시계열
+})
+```
+
+
+
+
+
+
+```{r}
+
+featurePlot(x = tmp_날짜[,7:17], 
+            y = tmp_날짜$genre, 
+            plot = "pairs",
+            ## Add a key at the top
+            auto.key = list(columns = 3))
+```
